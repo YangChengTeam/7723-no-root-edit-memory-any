@@ -14,10 +14,14 @@
   - 实现应用内打开游戏
 - VirtualApk
   - 实现动态加载插件
-- jp.garud.ssimulator.zip
-  - 内存搜索相关apk
 - host-window.apk
   - 界面
+- AndHook
+  - hook native函数
+- Xposed 
+  - hook java函数
+- jp.garud.ssimulator.zip
+  - 对应每一个游戏进行一些hook
 
 
 ### 实现原理
